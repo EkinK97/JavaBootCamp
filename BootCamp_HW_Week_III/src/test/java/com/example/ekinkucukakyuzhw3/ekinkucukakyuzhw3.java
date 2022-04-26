@@ -1,4 +1,4 @@
-package com.example.dogukanaligundoganh3;
+package com.example.ekinkucukakyuzhw3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
